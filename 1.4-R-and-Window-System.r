@@ -1,0 +1,1 @@
+#The most conveniente way to use R is at a graphics workstation running a windowing system.
