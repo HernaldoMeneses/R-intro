@@ -1,3 +1,7 @@
+#1.5 Using R interactively
+#prompt ecpects input commands.
+
+
 
 
 #pag. 10/103
